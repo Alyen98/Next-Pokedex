@@ -2,7 +2,7 @@
 Pokédex Next.js
 Uma aplicação web moderna, rápida e responsiva para explorar o mundo Pokémon. Construída com Next.js (App Router), TypeScript e Tailwind CSS, esta Pokédex consome os dados diretamente da PokeAPI.
 
-✨ Funcionalidades
+# ✨ Funcionalidades
 Listagem Paginada: Navegue por todos os Pokémon facilmente com botões de "Anterior" e "Próximo" (20 Pokémon por página).
 
 Busca Dinâmica: Pesquise Pokémon específicos pelo nome exato ou pelo seu ID numérico.
@@ -15,7 +15,7 @@ O fundo da página de detalhes muda de cor dinamicamente com base no tipo princi
 
 Performance: Utilização de React Server Components para fetch de dados no lado do servidor, garantindo carregamento rápido e ótimo SEO, com imagens otimizadas pelo next/image.
 
-🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 Next.js (App Router)
 
 React
@@ -26,7 +26,7 @@ Tailwind CSS
 
 PokeAPI (REST API)
 
-📁 Estrutura de Arquivos (Baseada no Código)
+# 📁 Estrutura de Arquivos (Baseada no Código)
 app/page.tsx: Página inicial contendo o campo de busca, tratamento de erros e listagem com paginação.
 
 app/pokemon/[id]/page.tsx: Página de detalhes dinâmicos do Pokémon.
@@ -35,7 +35,7 @@ components/pokemon-card.tsx: Componente de card individual para a listagem.
 
 components/back-button.tsx: Componente Client-Side para navegação de retorno.
 
-🚀 Como rodar o projeto localmente
+# 🚀 Como rodar o projeto localmente
 Siga os passos abaixo para executar a aplicação na sua máquina:
 
 1. Clone o repositório e acesse o diretório
