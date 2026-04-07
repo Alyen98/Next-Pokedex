@@ -1,4 +1,5 @@
-⚡ Pokédex Next.js
+# ⚡ Next Pokedex
+Pokédex Next.js
 Uma aplicação web moderna, rápida e responsiva para explorar o mundo Pokémon. Construída com Next.js (App Router), TypeScript e Tailwind CSS, esta Pokédex consome os dados diretamente da PokeAPI.
 
 ✨ Funcionalidades
